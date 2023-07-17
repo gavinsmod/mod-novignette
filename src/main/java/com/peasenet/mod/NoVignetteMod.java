@@ -14,7 +14,7 @@ public class NoVignetteMod implements ModInitializer {
      */
     @Override
     public void onInitialize() {
-        LOGGER.info("Hello Fabric world!");
+        LOGGER.info("Initializing GEM No Vignette...");
         GavinsMod.addMod(new ModNoVignette());
     }
 }
