@@ -20,6 +20,7 @@
     "fabricloader": ">=${loader_version}",
     "gemclient-core": "1.0.3",
     "fabric": "*",
+    "gavinsmod-events": "0.0.5",
     "minecraft": "${minecraft_version}"
   }
 }
